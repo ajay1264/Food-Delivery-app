@@ -1,13 +1,13 @@
 
 import './App.css';
+import Home from './Screens/Home';
 
 function App() {
   return (
-    <div className="App">
-hello
-world
-change 
-    </div>
+
+<>
+<Home/>
+</>
   );
 }
 
